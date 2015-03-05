@@ -361,6 +361,12 @@ header.navbar {
     @media (max-width: 768px) {
       header.navbar.background-7 {
         min-height: 1px; } }
+  header.navbar.background-8 {
+    background: url(../img/musical-score.jpg) no-repeat center;
+    min-height: 859px; }
+    @media (max-width: 768px) {
+      header.navbar.background-8 {
+        min-height: 1px; } }
 
 section#content .with-green-notes {
   padding: 0;
