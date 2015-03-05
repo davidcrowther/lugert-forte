@@ -234,21 +234,13 @@ header .page-header {
       text-align: left;
       font-size: 1.2em; }
     header .page-header.v1 .well-form {
-<<<<<<< HEAD
       margin-top: 112px; }
-=======
-      margin-top: 252px; }
->>>>>>> master
       @media (max-width: 768px) {
         header .page-header.v1 .well-form {
           margin-top: 160px; } }
   header .page-header.v2 {
-<<<<<<< HEAD
     padding: 45px 0 101px 0;
     text-align: center; }
-=======
-    padding: 45px 0 101px 0; }
->>>>>>> master
     @media (max-width: 768px) {
       header .page-header.v2 {
         padding: 39px 0 60px 0; } }
@@ -265,26 +257,19 @@ header .page-header {
         header .page-header.v2 .logo-brand {
           margin-left: -10px; } }
     header .page-header.v2 h1 {
-<<<<<<< HEAD
-      color: #469640;
+      color: #6BBD65;
       text-shadow: 2px 2px 4px #000;
-=======
-      color: #256c20;
->>>>>>> master
       text-align: center;
       font-family: 'Segoe';
       line-height: 120%;
       margin: 0;
       font-size: 3.2em; }
-<<<<<<< HEAD
       header .page-header.v2 h1.with-background {
         background: rgba(255, 255, 255, 0.3);
         border-radius: 6px;
         display: inline-block;
         padding: 10px 15px 20px 15px;
         line-height: 100%; }
-=======
->>>>>>> master
       @media (max-width: 768px) {
         header .page-header.v2 h1 {
           margin: 40px 0px 0px 0px; } }
@@ -293,7 +278,7 @@ header .page-header {
     header .page-header.v2 h4 {
       font-family: 'OSB';
       color: #fff;
-      margin: 136px 0 7px 0;
+      margin: 36px 0 7px 0;
       text-align: center;
       font-size: 1.76em; }
       @media (max-width: 768px) {
@@ -346,11 +331,35 @@ header.navbar {
     @media (max-width: 768px) {
       header.navbar.background-1 {
         min-height: 1px; } }
-  header.navbar .background-2 {
+  header.navbar.background-2 {
     background: url(../img/background-2.jpg) no-repeat center;
     min-height: 859px; }
     @media (max-width: 768px) {
-      header.navbar .background-2 {
+      header.navbar.background-2 {
+        min-height: 1px; } }
+  header.navbar.background-4 {
+    background: url(../img/playing-piano3.jpg) no-repeat center;
+    min-height: 859px; }
+    @media (max-width: 768px) {
+      header.navbar.background-4 {
+        min-height: 1px; } }
+  header.navbar.background-5 {
+    background: url(../img/headphones.jpg) no-repeat center;
+    min-height: 859px; }
+    @media (max-width: 768px) {
+      header.navbar.background-5 {
+        min-height: 1px; } }
+  header.navbar.background-6 {
+    background: url(../img/playing-guitar.jpg) no-repeat center;
+    min-height: 859px; }
+    @media (max-width: 768px) {
+      header.navbar.background-6 {
+        min-height: 1px; } }
+  header.navbar.background-7 {
+    background: url(../img/guitar.jpg) no-repeat center;
+    min-height: 859px; }
+    @media (max-width: 768px) {
+      header.navbar.background-7 {
         min-height: 1px; } }
 
 section#content .with-green-notes {
@@ -672,12 +681,7 @@ footer {
   footer .container {
     max-width: 100%;
     padding-left: 17px;
-<<<<<<< HEAD
-    padding-right: 17px;
-    position: relative; }
-=======
     padding-right: 17px; }
->>>>>>> master
   footer .nav-social a {
     display: inline-block;
     vertical-align: middle;
@@ -687,35 +691,14 @@ footer {
     margin: 9px 0; }
   footer a {
     color: inherit; }
-<<<<<<< HEAD
-  footer p.links {
-    position: absolute;
-    top: 0;
-    left: 0;
-    margin: 9px 0;
-    width: 100%;
-    text-align: center;
-    font-size: .9em; }
-=======
->>>>>>> master
   @media (max-width: 768px) {
     footer .nav-social {
       width: 100%;
       float: none;
       clear: both;
-<<<<<<< HEAD
-      text-align: center;
-      margin-bottom: 10px; }
-      footer .nav-social a {
-        margin: 5px 3px; }
-    footer p.links {
-      position: relative;
-      margin: 0px auto; }
-=======
       text-align: center; }
       footer .nav-social a {
         margin: 5px 3px; }
->>>>>>> master
     footer .copyright {
       float: none;
       clear: both;
